@@ -25,5 +25,5 @@ _(Example: When I click on "open boxes", the game simply freezes up and nothing 
 ### Specifications
   - **Operating System:**  _(Example: Windows, MacOS, or Android, etc)_
   - **Browser:**  _(Example: Safari, Chrome, or Firefox, etc)_
-  - **Your address:** _(Example: Safari, Chrome, or Firefox, etc)_
+  - **Your address:** _(Example: TPL66VK2gCXNCD7EJg9pgJRfqcRazjhUZY)_
   -  **Login Method:** _(Example: TronLink, or our custom Exchange Wallet)_
